@@ -8,6 +8,4 @@ start:
 stop:
 	docker stop echo_server
 
-clean:
-	rm -r -f var/log/server.log
 
